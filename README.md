@@ -95,12 +95,5 @@ Enter choice:
 * **Gungun Anant Chavan**
 * [LinkedIn](https://www.linkedin.com/in/gungun-chavan-822440259/)
 * [GitHub](https://github.com/Gungunachavan)
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
